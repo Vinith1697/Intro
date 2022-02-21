@@ -19,4 +19,6 @@ body {
 
 section {
     background-color : yellow;
+    border : 2px solid red; 
 }
+
